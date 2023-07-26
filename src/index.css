@@ -189,3 +189,9 @@ button:focus-visible {
     min-width: 200px;
   }
 }
+.hero-section {
+  color: yellow;
+}
+.hero-section a:hover {
+  color: #ffd700;
+}
